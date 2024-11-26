@@ -1,1 +1,3 @@
-To jest testowy plik readme
+# To jest testowy plik readme
+
+Mój pomysł na projekt to:
